@@ -1,0 +1,22 @@
+.bio {
+    min-width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.7;
+    height: 100vh;
+  }
+
+  
+  .bio img {
+    margin: 2rem;
+    width: 250px;
+  }
+
+  .bio p {
+      width: 60%;
+      text-align: center;
+
+  }
